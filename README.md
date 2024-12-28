@@ -35,7 +35,7 @@
 ## Connect with me
 
 <!-- Profile Views Badge (using Komarev) -->
-![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Yashsethi24&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Social Icons -->
 <p align="left">
