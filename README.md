@@ -5,8 +5,6 @@
 **Yashsethi24/Yashsethi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-👋 Hey there! I'm Yash
-
 - 🙋‍♂️ **Self-taught Programmer:** Driven by a passion for using data as the fuel to power better decision-making.  
 - 🔭 **Mission-Focused:** Currently leveraging analytics, machine learning, and AI to tackle meaningful real-world challenges.  
 - 🌱 **Insatiably Curious:** Always exploring new domains, picking up cutting-edge skills, and pushing boundaries—right now, I'm diving into LLMs for business applications.  
