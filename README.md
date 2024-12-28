@@ -5,17 +5,21 @@
 **Yashsethi24/Yashsethi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🙋‍♂️ A self-taught programmer with a passion for using data as a fuel to make decisions.  
-- 🔭 I’m on a mission of leveraging analytics, machine learning, and AI to solve impactful real-world challenges.
-- 🌱 Insatiably curious — always exploring new domains, learning cutting-edge skills, and pushing boundaries. I’m currently learning use of LLMs for business. 
-- 👯 I’m looking to collaborate on projects using LLMs and creating end-to-end project from scratch. (Data collection using API to powerful visualizations.) 
-- 🤔 I’m looking for help with fine-tuning LLMs. 
-- 🎓 I'm currently pursuing [Master of Management in Analytics](https://www.mcgill.ca/desautels/programs/mman) from McGill University.
-- 💻 All of my projects are currently available on GitHub and will soon be available at my own website.
-- 💬 Ask me about my journey into Data Science or anything about the field.
-- 📫 How to reach me: [yash.sethi@mail.mcgill.ca](mailto:yash.sethi@mail.mcgill.ca) or [sethiyash87@gmail.com](mailto:sethiyash87@gmail.com)  
-- 😄 Pronouns: he/him/his  
-- ⚡ Fun fact: I share same alma mater as Sundar Pichai. Also, I have been learning French using Duolingo for 1200+ days.  
+👋 Hey there! I'm Yash
+
+- 🙋‍♂️ **Self-taught Programmer:** Driven by a passion for using data as the fuel to power better decision-making.  
+- 🔭 **Mission-Focused:** Currently leveraging analytics, machine learning, and AI to tackle meaningful real-world challenges.  
+- 🌱 **Insatiably Curious:** Always exploring new domains, picking up cutting-edge skills, and pushing boundaries—right now, I'm diving into LLMs for business applications.  
+- 👯 **Collaborative Spirit:** Interested in joining forces on projects that utilize LLMs, building end-to-end solutions from API-based data collection to impactful visualizations.  
+- 🤔 **Seeking Guidance:** Looking for help and best practices around fine-tuning LLMs.  
+- 🎓 **Academic Pursuits:** Pursuing a Master of Management in Analytics at McGill University.  
+- 💻 **Project Showcase:** All of my projects are on GitHub, and they'll soon be showcased on my personal website.  
+- 💬 **Open Invitation:** Feel free to ask about my journey into Data Science or anything related to the field.  
+- 📫 **Reach Me:**  
+  - [yash.sethi@mail.mcgill.ca](mailto:yash.sethi@mail.mcgill.ca)  
+  - [sethiyash87@gmail.com](mailto:sethiyash87@gmail.com)  
+- 😄 **Pronouns:** he/him/his  
+- ⚡ **Fun Fact:** I share the same alma mater as Sundar Pichai, and I’ve been learning French on Duolingo for over 1200 days!
 
 ### Languages and Tools
 
