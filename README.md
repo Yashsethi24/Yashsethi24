@@ -12,7 +12,8 @@
 - 🤔 **Seeking Guidance:** Looking for help and best practices around fine-tuning LLMs.  
 - 🎓 **Academic Pursuits:** Pursuing a Master of Management in Analytics at McGill University.  
 - 💻 **Project Showcase:** All of my projects are on GitHub, and they'll soon be showcased on my personal website.  
-- 💬 **Open Invitation:** Feel free to ask about my journey into Data Science or anything related to the field.  
+- 💬 **Open Invitation:** Feel free to ask about my journey into Data Science or anything related to the field.
+- ** Portfolio: ** [https://yash-sethi.netlify.app/] Click here. or open https://yash-sethi.netlify.app/
 - 📫 **Reach Me:**  
   - [yash.sethi@mail.mcgill.ca](mailto:yash.sethi@mail.mcgill.ca)  
   - [sethiyash87@gmail.com](mailto:sethiyash87@gmail.com)  
