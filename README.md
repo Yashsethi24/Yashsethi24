@@ -18,7 +18,7 @@
   - [yash.sethi@mail.mcgill.ca](mailto:yash.sethi@mail.mcgill.ca)  
   - [sethiyash87@gmail.com](mailto:sethiyash87@gmail.com)  
 - 😄 **Pronouns:** he/him/his  
-- ⚡ **Fun Fact:** I share the same alma mater as Sundar Pichai, and I’m a big fan of open source and have been learning French on Duolingo and Ukulele on YouTube for over 1200 days!
+- ⚡ **Fun Fact:** I’m a big fan of open source and have been learning French on Duolingo and Ukulele on YouTube for over 1200 days!
 
 ### Languages and Tools
 
