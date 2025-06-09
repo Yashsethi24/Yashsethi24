@@ -5,20 +5,30 @@
 **Yashsethi24/Yashsethi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🙋‍♂️ **Self-taught Programmer:** Driven by a passion for using data as the fuel to power better decision-making.  
-- 🔭 **Mission-Focused:** Currently leveraging analytics, machine learning, and AI to tackle meaningful real-world challenges.  
-- 🌱 **Insatiably Curious:** Always exploring new domains, picking up cutting-edge skills, and pushing boundaries—right now, I'm diving into LLMs for business applications.  
-- 👯 **Collaborative Spirit:** Interested in joining forces on projects that utilize LLMs, building end-to-end solutions from API-based data collection to impactful visualizations.  
-- 🤔 **Seeking Guidance:** Looking for help and best practices around fine-tuning LLMs.  
-- 🎓 **Academic Pursuits:** Pursuing a Master of Management in Analytics at McGill University.  
-- 💻 **Project Showcase:** All of my projects are on GitHub, and they'll soon be showcased on my personal website.  
-- 💬 **Open Invitation:** Feel free to ask about my journey into Data Science or anything related to the field.
-- **Portfolio:** Click [here](https://yash-sethi.netlify.app/). or open https://yash-sethi.netlify.app/
-- 📫 **Reach Me:**  
-  - [yash.sethi@mail.mcgill.ca](mailto:yash.sethi@mail.mcgill.ca)  
-  - [sethiyash87@gmail.com](mailto:sethiyash87@gmail.com)  
-- 😄 **Pronouns:** he/him/his  
-- ⚡ **Fun Fact:** I’m a big fan of open source and have been learning French on Duolingo and Ukulele on YouTube for over 1200 days!
+## 🌱 About Me
+
+I’m Yash Sethi — a data science practitioner with a foundation in mathematics, a mind wired for problem-solving, and a genuine passion for uncovering insight in complexity.
+
+My journey into data didn’t start with a course or a bootcamp — it began with equations, theorems, and a quiet curiosity cultivated during my Bachelors and Masters in Mathematics, with a minor in Statistics. Through those years, I learned how to think structurally, reason rigorously, and code with purpose — skills that later became the bedrock of my career in data science.
+
+I took my first steps into the field at HSBC, where I worked across two distinctly different domains: marketing analytics and fraud mitigation. These experiences didn’t just give me technical depth — they offered perspective. I learned how data can drive campaigns one day and protect customers from fraud the next. I became fluent in building models that didn’t just predict, but made a measurable difference in business outcomes.
+
+Craving a deeper understanding and a broader toolkit, I pursued a Master of Management in Analytics at McGill University. This program didn’t just polish my existing skills — it expanded my horizons. From forecasting financial markets to optimizing supply chains and deploying AI agents, I immersed myself in the full lifecycle of data science.
+
+During this time, I worked as a consultant on real-world challenges with global organizations like BNP Paribas, ALDO, and L’Oréal — each project sharpening my ability to translate messy data into strategic action. Whether it was building predictive systems, conversational analytics bots, or optimization pipelines, I came away more confident in my ability to solve any data science problem thrown my way.
+
+Today, I specialize in building end-to-end AI-powered solutions, especially those involving LLMs, API-driven architectures, and intelligent visualizations. I thrive at the intersection of logic and intuition — and I’m always looking for new puzzles to solve.
+
+⚡ Fun Fact: When I’m not working with data, I’m usually go for a run, solve puzzles, learn French 🇫🇷, or strum ukulele I’ve been teaching myself for over 1300 days.
+
+If you’re working on a data-driven problem — or even just want to chat about the future of AI — let’s connect.
+
+## 🎯 My Expertise
+- **Machine Learning and Data Science**: ANN, Deep Learning (RNN, CNN), NLP(Sentiment Analysis, TF-IDF, Word2Vec, BERT), Transformers(BERT), Regression, Classifiers, Random Forest, Gradient Boosting(XGBoost, LightGBM), Clustering (K-Means, DBSCAN)
+- **Analytics Tools & Software**: SQL, Python, R, Power BI, Metabase, VSCode   
+-	**Python Libraries**: Pandas, NumPy, scikit-learn, PyTorch, XGBoost, NLTK, Gurobi, Statsmodels, Matplotlib, Seaborn, Causalml, dowhy, requests, BeautifulSoup, torch
+- **Cloud**: AWS, Azure, GCP
+- **Visualizatio**: Looker, Tableau, PowerBI, Adobe Analytics
 
 ### Languages and Tools
 
