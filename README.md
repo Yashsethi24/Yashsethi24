@@ -15,7 +15,7 @@ I took my first steps into the field at HSBC, where I worked across two distinct
 
 To expand my capabilities, I pursued a Master of Management in Analytics at McGill University, where I explored the full breadth of the data science lifecycle — from data engineering and ML modeling to dashboarding and deploying AI agents. During the program, I worked as a consultant for BNP Paribas, ALDO, and L’Oréal, solving diverse business challenges using advanced analytics and machine learning.
 
-Today, I specialize in building end-to-end AI-powered solutions, especially those involving LLMs, API-driven architectures, and intelligent visualizations. I thrive at the intersection of logic and intuition — and I’m always looking for new puzzles to solve.
+Today, I specialize in building end-to-end AI-powered solutions, especially those involving LLMs, Machine Learning architectures, and intelligent visualizations. 
 
 ⚡ Fun Fact: When I’m not working with data, I’m usually go for a run, solve puzzles, learn French 🇫🇷, or strum ukulele I’ve been teaching myself for over 1300 days.
 
