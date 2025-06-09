@@ -13,9 +13,7 @@ My journey into data didn’t start with a course or a bootcamp — it began wit
 
 I took my first steps into the field at HSBC, where I worked across two distinctly different domains: marketing analytics and fraud mitigation. These experiences didn’t just give me technical depth — they offered perspective. I learned how data can drive campaigns one day and protect customers from fraud the next. I became fluent in building models that didn’t just predict, but made a measurable difference in business outcomes.
 
-Craving a deeper understanding and a broader toolkit, I pursued a Master of Management in Analytics at McGill University. This program didn’t just polish my existing skills — it expanded my horizons. From forecasting financial markets to optimizing supply chains and deploying AI agents, I immersed myself in the full lifecycle of data science.
-
-During this time, I worked as a consultant on real-world challenges with global organizations like BNP Paribas, ALDO, and L’Oréal — each project sharpening my ability to translate messy data into strategic action. Whether it was building predictive systems, conversational analytics bots, or optimization pipelines, I came away more confident in my ability to solve any data science problem thrown my way.
+To expand my capabilities, I pursued a Master of Management in Analytics at McGill University, where I explored the full breadth of the data science lifecycle — from data engineering and ML modeling to dashboarding and deploying AI agents. During the program, I worked as a consultant for BNP Paribas, ALDO, and L’Oréal, solving diverse business challenges using advanced analytics and machine learning.
 
 Today, I specialize in building end-to-end AI-powered solutions, especially those involving LLMs, API-driven architectures, and intelligent visualizations. I thrive at the intersection of logic and intuition — and I’m always looking for new puzzles to solve.
 
@@ -28,7 +26,7 @@ If you’re working on a data-driven problem — or even just want to chat about
 - **Analytics Tools & Software**: SQL, Python, R, Power BI, Metabase, VSCode   
 -	**Python Libraries**: Pandas, NumPy, scikit-learn, PyTorch, XGBoost, NLTK, Gurobi, Statsmodels, Matplotlib, Seaborn, Causalml, dowhy, requests, BeautifulSoup, torch
 - **Cloud**: AWS, Azure, GCP
-- **Visualizatio**: Looker, Tableau, PowerBI, Adobe Analytics
+- **Visualization**: Looker, Tableau, PowerBI, Adobe Analytics
 
 ### Languages and Tools
 
