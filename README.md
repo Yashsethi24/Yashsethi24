@@ -29,7 +29,7 @@ If you’re working on a data-driven problem — or even just want to chat about
 - **Visualization**: Looker, Tableau, PowerBI, Adobe Analytics
 
 ## Certifications
-Microsoft Certified Azure Data Fundamentals (DP-900), Microsoft Certified Data Scientist Associate
+Microsoft Certified Azure Data Fundamentals (DP-900), Microsoft Certified Data Scientist Associate (DP-100)
 
 ### Languages and Tools
 
