@@ -28,6 +28,9 @@ If you’re working on a data-driven problem — or even just want to chat about
 - **Cloud**: AWS, Azure, GCP
 - **Visualization**: Looker, Tableau, PowerBI, Adobe Analytics
 
+## Certifications
+Microsoft Certified Azure Data Fundamentals (DP-900), Microsoft Certified Data Scientist Associate
+
 ### Languages and Tools
 
 <p align="left">
